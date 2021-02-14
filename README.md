@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">Olá Pessoal, Bem vindos ao meu perfil 👋😀</h2>
+
+<h3 align="center">Desenvolvedor Backend Jr </h3>
+
+![](https://komarev.com/ghpvc/?username=LucasCicero)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCicero&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCicero&layout=compact&theme=dark)
 
 <!--
 **LucasCicero/LucasCicero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
