@@ -2,6 +2,8 @@
 
 <h3 align="center">Desenvolvedor Backend Jr </h3>
 
+![Twitter](https://img.shields.io/twitter/url?color=%23007396&label=Java&logo=Java&logoColor=%23007396&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fjava.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%23E34F26&label=Html5&logo=HTML5&logoColor=%23E34F26&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fhtml5.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%231572B6&label=Css3&logo=CSS3&logoColor=%231572B6&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fcss3.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%23F7DF1E&label=JavaScript&logo=JavaScript&logoColor=%23F7DF1E&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fjavascript.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%233776AB&label=Python&logo=Python&logoColor=%233776AB&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fpython.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%23777BB4&label=PHP&logo=PHP&logoColor=%23777BB4&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fphp.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%23DD0031&label=Angular&logo=Angular&logoColor=%23DD0031&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fangular.svg)    ![Twitter](https://img.shields.io/twitter/url?color=%23239120&label=C%23&logo=C%20Sharp&logoColor=%23239120&style=flat-square&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fcsharp.svg)
+
 ![](https://komarev.com/ghpvc/?username=LucasCicero)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCicero&show_icons=true&theme=dark)
