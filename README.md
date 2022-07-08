@@ -10,9 +10,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCicero&layout=compact&theme=dark)
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-cicero"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Perfil Linkedin" height="20" width="20"/></a>
 </p>
+
+![Snake animation](https://github.com/LucasCicero/LucasCicero/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=76116734)
 <!--
